@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋 I'm Frederick Lopez
+===============================
 
-<!--
-**effs12/effs12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer
+-----------------------------
 
-Here are some ideas to get you started:
+*   👨‍💻  Currently mostly into webapps.
+*   🌍  I'm based in Ontario, Canada.
+*   🖥️  See my portfolio at [fredericklopez.net](https://fredericklopez.net)
+*   ✉️  You can contact me at [fredericklopez12@gmail.com](mailto:fredericklopez12@gmail.com)
+*   🚀  I'm currently working on [FirstWave Agency](https://firstwave.sg/)
+*   ⚡  Trying to be consistent for something more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------
