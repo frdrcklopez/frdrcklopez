@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=frdrcklopez)
 
-## Hi! 👋 my name is Frederick Lopez, I am a Full-Stack Developer. <br>
+## Hi! 👋 my name is Frederick Lopez, I am a Full-Stack Developer. <br><br>
 
 *   👨‍💻  I build things for the web.
 *   🇵🇭   I am From Manila, Philippines.
