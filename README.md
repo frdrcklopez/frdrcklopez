@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=frdrcklopez)
 
 ## Hi! 👋 my name is Frederick Lopez, I am a Full-Stack Developer.
-<br><br>
+<br>
 *   👨‍💻  I build things for the web.
 *   🇵🇭   I am From Manila, Philippines.
 *   🇨🇦  I am currently based in Niagara Falls, Ontario, Canada.
